@@ -1,0 +1,1 @@
+This file replaces the TrustIndicators component that has been moved back to Hero component.
